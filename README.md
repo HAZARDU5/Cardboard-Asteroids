@@ -5,6 +5,8 @@ VR Version of Asteroids that can be compiled to either Android or iOS from Unity
 We have a [public Trello board](https://trello.com/b/xh9r1jOj/cardboard-asteroids) available for viewing upcoming 
 features and checking the progress of bug fixes.
 
+A demo of [alpha gameplay is available here](https://www.youtube.com/watch?v=MSqX-Pm0flg).
+
 ## Setup Instructions
 
 *	Make sure you are running Unity `5.3.1f1` and XCode 7 as this is the most compatible version with this project to 
